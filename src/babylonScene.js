@@ -54,7 +54,7 @@ import '@babylonjs/loaders';
                 });
                 keys.push({
                     frame: 100,
-                    value: 0.25, // Final Y position (adjust as needed)
+                    value: 0.25, // Final Y position
                 });
 
                 // Assign the keyframes to the animation
